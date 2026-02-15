@@ -1,0 +1,25 @@
+
+{
+  "name": "КВАНТ | Логистика",
+  "short_name": "КВАНТ",
+  "description": "Премиум P2P логистика в стиле iOS Crypto-Glass",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=kvant-icon&backgroundColor=000000&shape=circle",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=kvant-icon&backgroundColor=000000&shape=circle",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

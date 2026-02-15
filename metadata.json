@@ -1,0 +1,8 @@
+{
+  "name": "КВАНТ",
+  "description": "Премиум P2P логистика в стиле iOS Crypto-Glass. Быстро, прозрачно, децентрализовано.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
